@@ -1,16 +1,29 @@
 # MojoHunt
-A TREASURE HUNT ON THE CHIA BLOCKCHAIN 
+Virtual Reality Treasure Hunt
+Welcome to Virtual Reality Treasure Hunt, a thrilling game where players can explore the vast reaches of space in search of hidden treasures. Buried in the stars and galaxies of the virtual universe, players will use cutting-edge VR technology to navigate their way to riches beyond their wildest dreams.
 
-What is better than a vanilla treasure hunt ? A treasure hunt, for rewards, buried in the vast universe of stars and galaxies , enforced by Smart Contracts on the Chia decentralized blockchain. Even better,is a Virtual Reality 3D immersive experience with all the above features. Welcome to MojoHunter!
+How to play
+To begin, players will need to download the game and create a Chia wallet.
+Once in the game, players will use their VR headset to explore the virtual universe and locate hidden treasures.
+As players discover treasures, they will need to use their Chia wallet to pay a small fee to claim them.
+The more treasures players find, the more Chia they can earn.
 
-The randomness, and the infinite number of celestial objects,and the failsafe enforcement of payment of the promised reward,  makes it for an engaging gaming experience.
+Features
+Immersive VR technology that allows players to fully explore the virtual universe.
+Hidden treasures buried in the stars and galaxies, waiting to be discovered.
+Use of Chia blockchain to ensure secure and transparent payments.
+The possibility to earn Chia and use it in other virtual world, online store or just cash it out.
+A leaderboard to track the progress of players and compete with friends.
 
-MojoHunter's scene opens up to a Planetarium-like setting where the stars and galaxies are plotted as accurately as possible in a galactic coordinate system with the galactic plane dissecting the two hemispheres.
+Requirements
+A VR headset (such as Oculus Quest, or Rift)
+A Chia wallet
 
-At a basic level it serves as an educational app, one in which players wear an Oculus Headset, point their controllers at the various objects and learn their names, and orientation. At an advanced level, one can be a sponsor of a treasure hunt, or play to win many such contracts that will exist on the blockchain
+Getting started
+Download the game from the official website
+Create a Chia wallet and fund it with some Chia.
+Launch the game and put on your VR headset
+Explore the virtual universe and locate hidden treasures
+Use your Chia wallet to pay the small fee and claim the treasure.
+We hope you enjoy playing Virtual Reality Treasure Hunt. Happy treasure hunting!
 
-If you have a spendable Chia Wallet, you can sponsor treasure hunts for the public to play. Solve challenges provided as clues by visiting stars and galaxies, to win the reward that will be paid out by a Chia SmartContract. There are no middlemen, no way to renege on the promise. The blockchain will enforce the contract and reward the FIRST person to play and win any given game. 
-
-In a well adopted, and balanced app, with a good number of daily active users, it is expected that there will be a balance between sponsors and hunters.
-
-MojoHunt is more than a proof of concept of Chia blockchain, it is proof Chia is a viable blockchain for many metaverse multi-user gaming ideas.
